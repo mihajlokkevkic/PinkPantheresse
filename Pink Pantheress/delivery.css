@@ -1,0 +1,20 @@
+.img {
+    display: block; 
+    margin: 0 auto; 
+    width: 20%;
+}
+li a{
+    justify-content: center;
+    box-sizing: border-box;
+    box-shadow: inset;
+    box-shadow: palegreen;
+    text-justify: center;
+    align-items: center;
+}
+li text{
+  justify-content: center;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-spacing: 20cap;
+}
